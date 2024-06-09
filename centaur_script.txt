@@ -1,0 +1,7 @@
+My name is Firenze. I'm the protector of the forest. Don't be afraid of my appearance, hey, I'm no monster. It's been a long time since the last time someone had visitied this place.
+You wanna get out of the tower? Then listen.
+It's very dangerous here in the tower. Let me remind you, the master of the tower is a witch full of power. You don't want to fight her with just a sword, do you? Here, take this.
+
+==========CHOICES ARE YOURS=============
+A. Take the gift from the kind centaur, Firenze.
+B. Be skeptical because the centaur might be the helper of the witch. Turn him down. 
